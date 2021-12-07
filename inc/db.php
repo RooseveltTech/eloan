@@ -10,7 +10,7 @@ catch (PDOException $e) {
 }
 
 // SQL Server Extension Sample Code:
-// $connectionInfo = array("UID" => "eloandatabase", "pwd" => "Eloan123", "Database" => "eloandatabase", "LoginTimeout" => 30, "Encrypt" => 1, "TrustServerCertificate" => 0);
-// $serverName = "tcp:eloan.database.windows.net,1433";
-// $conn = sqlsrv_connect($serverName, $connectionInfo);
+$connectionInfo = array("UID" => "eloandatabase", "pwd" => "Eloan123", "Database" => "eloandatabase", "LoginTimeout" => 30, "Encrypt" => 1, "TrustServerCertificate" => 0);
+$serverName = "tcp:eloan.database.windows.net,1433";
+$con = sqlsrv_connect($serverName, $connectionInfo);
 ?>
