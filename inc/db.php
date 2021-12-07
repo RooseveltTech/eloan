@@ -1,8 +1,8 @@
 <?php
 // PHP Data Objects(PDO) Sample Code:
 try {
-    $conn = new PDO("sqlsrv:server = tcp:eloan.database.windows.net,1433; Database = eloandatabase", "eloandatabase", "Eloan123");
-    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    $con = new PDO("sqlsrv:server = tcp:eloan.database.windows.net,1433; Database = eloandatabase", "eloandatabase", "Eloan123");
+    $con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 }
 catch (PDOException $e) {
     print("Error connecting to SQL Server.");
