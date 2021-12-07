@@ -1,20 +1,16 @@
 <?php
-$host = 'localhost';
-$dbname = 'eloan';
-$dbusername = 'root';
-$dbpassword = '';
-$charset = 'utf8mb4';
-$pdo = "mysql:host=$host;dbname=$dbname;charset=$charset";
-$options = [
-    \PDO::ATTR_ERRMODE            => \PDO::ERRMODE_EXCEPTION,
-    \PDO::ATTR_DEFAULT_FETCH_MODE => \PDO::FETCH_ASSOC,
-    \PDO::ATTR_EMULATE_PREPARES   => false,
-];
-
+// PHP Data Objects(PDO) Sample Code:
 try {
-    $con = new \PDO($pdo, $dbusername, $dbpassword, $options);
-
-} catch (\PDOException $e) {
-     throw new \PDOException($e->getMessage(), (int)$e->getCode());
+    $conn = new PDO("sqlsrv:server = tcp:eloan.database.windows.net,1433; Database = eloandatabase", "eloandatabase", "Eloan123");
+    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 }
+catch (PDOException $e) {
+    print("Error connecting to SQL Server.");
+    die(print_r($e));
+}
+
+// SQL Server Extension Sample Code:
+$connectionInfo = array("UID" => "eloandatabase", "pwd" => "Eloan123", "Database" => "eloandatabase", "LoginTimeout" => 30, "Encrypt" => 1, "TrustServerCertificate" => 0);
+$serverName = "tcp:eloan.database.windows.net,1433";
+$conn = sqlsrv_connect($serverName, $connectionInfo);
 ?>
