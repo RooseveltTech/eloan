@@ -1,4 +1,4 @@
-# E-Loan (A Web Based Application called Stacked)
+# E-Loan (A Web Based Application called Stack)
 Try our Application: https://eloan.azurewebsites.net/eloan/
 ![alt text](https://drive.google.com/uc?export=view&id=1veYslyzilUMt1SjEGTSH_WLbmJV0kARZ)
 ![alt text](https://drive.google.com/uc?export=view&id=1evReuOaLR9BNNCAPnZwB47NPMvRv0_SY)
