@@ -1,10 +1,10 @@
 # E-Loan (A Web Based Application)
 
 ## Team 
-Abandy Roosevelt
-Ashley Spira
-Trinta Mbogo
-Atanda Nafiu
+Abandy Roosevelt,
+Ashley Spira,
+Trinta Mbogo,
+Atanda Nafiu,
 
 ## Our Inspiration
 A lot of SMEs face the challenge of accessing finance and credit especially from financial institutions such as banks. This happens mostly because of lending conditions given to them such as collateral for the loan. On the other hand, financial institutions face the challenge of tracking loan defaulters.
@@ -27,10 +27,10 @@ Collaboration -Being able to meet people for the first time but still being prod
 What's next for E-loan
 Since we created the app to cater for two countries at the moment, we want it to be adopted in many other countries and have it integrated by more financial institutions.
 
-Built With
-ajax
-azure
-css
-html
-mysql
-php
+## Built With
+Ajax,
+Microsoft Azure,
+CSS,
+HTML5,
+MySQL (database),
+PHP.
