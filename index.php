@@ -32,7 +32,7 @@
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">We make Transparency Vital</h1>
+                  <h1 class="probootstrap-heading">We care for SME's</h1>
                 </div>
               </div>
             </div>
@@ -55,7 +55,7 @@
             <div class="row">
               <div class="col-md-8 col-md-offset-2">
                 <div class="probootstrap-slider-text text-center">
-                  <h1 class="probootstrap-heading">We Bring your Start Up to Life</h1>
+                  <h1 class="probootstrap-heading">We Bring your SME's to Life</h1>
                 </div>
               </div>
             </div>

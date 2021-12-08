@@ -7,7 +7,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.html" title="uiCookies:Stack">U-Loan</a>
+          <a class="navbar-brand" href="index.php">U-Loan</a>
         </div>
 
         <div id="navbar-collapse" class="navbar-collapse collapse">
@@ -17,7 +17,18 @@
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About Us</a></li>
                 <li><a href="contact.php">Contact</a></li>
-                <li><a href="contact.php">Accounts</a></li>
+                <li><a href="accounts.php">Loans</a></li>
+                <li class="dropdown">
+                  <a href="#" data-toggle="dropdown" class="dropdown-toggle">Actions</a>
+                  <ul class="dropdown-menu">
+                    <li><a href="approved.php">Approved</a></li>
+                    <li><a href="disapproved.php">Disapproved</a></li>
+                    <li><a href="cleared.php">Cleared</a></li>
+                    <li><a href="withdrawn.php">WithDrawn</a></li>
+                    <li><a href="cancelled.php">CANCELLED</a></li>
+                  </ul>
+              </li>
+              <li></a>
                 <li><a href="logout.php">Logout</a></li>
             <?php } else { ?>   
                 <li><a href="index.php">Home</a></li>

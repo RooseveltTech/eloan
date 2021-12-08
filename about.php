@@ -57,7 +57,7 @@
             <a href="#" class="probootstrap-team">
               <img src="img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>Ashley Ashley <span class="position">Team Lead</span></h3>
+                <h3>Ashley Spira <span class="position">Team Lead & Researcher</span></h3>
               </div>
             </a>
           </div>
@@ -65,7 +65,7 @@
             <a href="#" class="probootstrap-team">
               <img src="img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>Abandy Roosevelt <span class="position">Developer</span></h3>
+                <h3>Abandy Roosevelt <span class="position">FullStack Developer</span></h3>
               </div>
             </a>
           </div>
@@ -76,7 +76,7 @@
             <a href="#" class="probootstrap-team">
               <img src="img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>Trinter Trinter <span class="position">Co-Researcher</span></h3>
+                <h3>Trinter Mbogo <span class="position">Co-Researcher</span></h3>
               </div>
             </a>
           </div>
@@ -84,51 +84,16 @@
             <a href="#" class="probootstrap-team">
               <img src="img/person_4.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
               <div class="probootstrap-team-info">
-                <h3>Ivan Dubovtsev <span class="position">Designer</span></h3>
+                <h3>Atanda Nafiu <span class="position">Mobile Design Lead</span></h3>
                 
               </div>
             </a>
           </div>
 
           <div class="clearfix visible-sm-block visible-xs-block"></div>
-
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="img/person_2.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>James Butterly <span class="position">Co-Founder / Creative</span></h3>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="img/person_1.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Jeremy Slater <span class="position">Co-Founder / Tech</span></h3>
-              </div>
-            </a>
-          </div>
+      
           
-          <div class="clearfix visible-sm-block visible-xs-block"></div>
-
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="img/person_4.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Ivan Dubovtsev <span class="position">Designer</span></h3>
-                
-              </div>
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 probootstrap-animate">
-            <a href="#" class="probootstrap-team">
-              <img src="img/person_3.jpg" alt="Free Bootstrap Template by uicookies.com" class="img-responsive img-rounded">
-              <div class="probootstrap-team-info">
-                <h3>Matthew Smith <span class="position">Developer</span></h3>
-              </div>
-            </a>
-          </div>
-          
+          <div class="clearfix visible-sm-block visible-xs-block"></div>          
 
         </div>
       </div>
