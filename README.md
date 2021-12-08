@@ -1,5 +1,7 @@
 # E-Loan (A Web Based Application)
 Try our Application: https://eloan.azurewebsites.net/eloan/
+![alt text](https://drive.google.com/file/d/1evReuOaLR9BNNCAPnZwB47NPMvRv0_SY/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1veYslyzilUMt1SjEGTSH_WLbmJV0kARZ/view?usp=sharing)
 
 ## Team 
 Abandy Roosevelt,
